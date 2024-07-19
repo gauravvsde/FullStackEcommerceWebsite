@@ -1,7 +1,7 @@
 # E-commerce Web App
 Step into a seamless online shopping experience with our E-Commerce Web Application. Crafted with **React** for the frontend and powered by **Spring Boot** on the backend, our platform offers a wealth of features to enhance your virtual shopping journey.
 
-Live Link- https://shopping-made-easy.vercel.app/ (Backend is deployed on free cloud(render.com), so it might some time in loading)
+Live Link- https://shopping-made-easy.vercel.app/ (Backend is deployed on free cloud(render.com), so it might take some time in loading)
 
 # Technologies
 - **Frontend:** React, Tailwind CSS, Material Design (MUI)
